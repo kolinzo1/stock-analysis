@@ -9,11 +9,11 @@ As shown in the images that follow, the code structure used for analysis in VBA_
 
 ### 2017
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
-![green_stocks_2017](Resources/green_stocks_2017.png)
+![green_stocks_2017](Resources/green_stocks_2017.PNG)
 
 ### 2018
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
-![green_stocks_2018](Resources/green_stocks_2018.png)
+![green_stocks_2018](Resources/green_stocks_2018.PNG)
 
 ## Summary
 The original code was refactored by including multiple tasks in the same For loop thereby reducing the runtime required for the analysis. This improves the use of both machine time/resources, and man-hours. It's therefore concluded that refactoring is desirable overall.
