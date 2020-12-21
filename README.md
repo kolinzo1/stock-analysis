@@ -16,4 +16,5 @@ As shown in the images that follow, the code structure used for analysis in VBA_
 ![green_stocks_2018](Resources/green_stocks_2018.PNG)
 
 ## Summary
-The original code was refactored by including multiple tasks in the same For loop thereby reducing the runtime required for the analysis. This improves the use of both machine time/resources, and man-hours. It's therefore concluded that refactoring is desirable overall.
+The adavantages of refactoring code includes: it improves the design of software, makes them easier to understand, helps us find bugs and also helps in executing the program faster. The disadvantage of refactoring is that it could be time consuming.
+The original code was refactored by including multiple tasks in the same For loop thereby reducing the runtime required for the analysis as shown in the results above. This improves the use of both machine time/resources, and man-hours. There was, however, a lot of time spent in refactoring the code. It's therefore concluded that refactoring is desirable overall.
